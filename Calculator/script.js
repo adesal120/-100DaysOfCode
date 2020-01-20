@@ -21,4 +21,4 @@ function  Calculator(a,b) {
 
 }
 
- Calculator (FirstNumber, SecondNumber)
+ Calculator (FirstNumber, SecondNumber) 
