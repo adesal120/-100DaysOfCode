@@ -48,7 +48,20 @@ var user = {
     MaritalStatus: "Single"
 }
 
-
 user.name
 user.age
 
+
+var List = [
+    {
+        username: "adesal120",
+        password: "secret"
+    },
+    {
+        username: "James2030",
+        password: "secretpassword"
+    }
+];
+
+List[0].password
+List[1].username
