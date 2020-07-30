@@ -118,3 +118,34 @@ function SignIn (user,pass) {
 }
 
 SignIn (Username,Password)
+
+
+/* Javascrip Loops */
+
+var todos = [
+    "Clean Room",
+    "Brush Teeth",
+    "Have your Bath",
+];
+
+
+/* While Loop*/
+
+while (i<10) {
+    /*excute this statement*/;
+}
+
+do {
+    /*excute this statement*/;
+}
+while (i<10) 
+
+/* For Loop*/
+
+for (i=0; i<todos.length; i++) {
+    /*excute this statement*/;
+}
+
+for (x in person) {
+    /*excute this statement*/;
+}
